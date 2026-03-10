@@ -19,13 +19,6 @@ Patches [Pencil](https://pencil.dev) to export frames as full-resolution PNGs.
 
 Double-click **Patch Pencil.app**. A patched `Pencil.app` appears in the same folder. Open it.
 
-Or from the terminal:
-
-```bash
-./patch.sh
-open ./Pencil.app
-```
-
 ### Exporting Frames
 
 1. Select one or more frames on the canvas
